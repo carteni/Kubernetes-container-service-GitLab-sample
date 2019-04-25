@@ -23,3 +23,6 @@ tags
 Network Trash Folder
 Temporary Items
 .apdisk
+
+data/gitlab/
+data/postgresql/
